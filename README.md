@@ -48,7 +48,12 @@ The **Dormitory Management System** is a comprehensive software designed to stre
 3. Use the dashboard to perform actions like room allocation, fee management, and sending notifications.
 
 ## Screenshots
-
+![Login Interface](Screenshots/Login.png)
+![Register Interface](Screenshots/Register.png)
+![Student Interface](Screenshots/Student.png)
+![Manager Interface example_1](Screenshots/Manage1.png)
+![Manager Interface example_2](Screenshots/Manage2.png)
+![Manager Interface example_3](Screenshots/Manage3.png)
 
 ## Contributing
 We welcome contributions to improve this project! To contribute:
